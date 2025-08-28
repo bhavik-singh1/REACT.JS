@@ -14,7 +14,7 @@ function App() {
       itemMonth:"august",
       itemYear:"2000"
 
-    },
+    },::
 
     {
       itemName : "Nirma1",
